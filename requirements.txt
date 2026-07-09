@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+
+sentence-transformers
+faiss-cpu
+
+pdfplumber
+python-dotenv
+
+langchain
+langchain-text-splitters
+numpy
+pandas
+tqdm
